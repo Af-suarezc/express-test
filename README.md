@@ -29,12 +29,14 @@ After this we are ready to go!
 
 ## Running the tests
 
-Once located on the root folder, we can run the project by
+Once located on the root folder, we can run the project in the terminal by using
 ```
 npm start
 ```
+This will start the server application. 
 Once the project is started please go to your browser and type localhost:3000/,  this will render the serverproject on your browser screen.
-Type the IP & Mask and click the Submit button
+
+Type the IP & Subnet Mask, then click the Submit button, if you do not provide data for the ip and/or the mask an alert would be displayed on the screen. 
 
 ### After validation.
 
