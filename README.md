@@ -1,6 +1,6 @@
-# CLI- IP Subnet Mask validator
+# WEb app for IP & Subnet Mask validator
 
-This project validates if the ip mask provided by the user is /24 CIDR Standard or not.
+This project validates if the ip mask provided by the user is mask /24 CIDR Standard or not.
 
 ## Getting Started
 Please download the files, set your working directory where the files are located and then just run this by using 
@@ -31,9 +31,10 @@ After this we are ready to go!
 
 Once located on the root folder, we can run the project by
 ```
-node app.js
+npm start
 ```
-
+Once the project is started please go to your browser and type localhost:3000/,  this will render the serverproject on your browser screen.
+Type the IP & Mask and click the Submit button
 
 ### After validation.
 
